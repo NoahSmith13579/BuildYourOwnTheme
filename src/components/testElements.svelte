@@ -10,7 +10,9 @@
     >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua.</span
   >
-  <button class="test-button color-button-text">Example Button</button>
+  <button class="test-button color-button-text secondary-color-bg"
+    >Example Button</button
+  >
 </div>
 
 <style>
